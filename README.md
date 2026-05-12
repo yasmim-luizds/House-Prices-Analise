@@ -140,7 +140,7 @@ Principais informações presentes no dataset:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/C3-House-Prices-Data-Analysis.git
+git clone https://github.com/seu-usuario/House-Prices-Analise.git
 ```
 
 ### 2. Acesse a pasta do projeto
@@ -171,9 +171,9 @@ Trabalho_C3_House_Prices.ipynb
 
 ## Integrantes
 
-* [Nome do integrante 1]
-* [Nome do integrante 2]
-* [Nome do integrante 3]
+* Hellen Karla Costa Campos Moraes de Melo
+* José Henrique Bessi Wolkers
+* Kaio Soares Pacheco
 * Yasmim Luiz dos Santos
 
 ---
